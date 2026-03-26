@@ -50,13 +50,14 @@ Passionate about bridging the gap between raw data and intelligent automation. I
 ### 🎓 Education & Background
 * **B.Tech in Computer Science (AI & ML)** | Vaagdevi Engineering College (2025)
 * **Diploma in Textile Technology** | SRRS Govt Polytechnic College
-* **Interests:** Personal Investing, Financial Data Analysis, and Astronomy 🌌
+* **Interests:** Agentic AI Workflows, Vector Database Optimization
 
 ---
 
 ### 📫 Connect with me
 - 📧 **Email:** [boddulamanoj525@gmail.com](mailto:boddulamanoj525@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+- 💼 **LinkedIn:** [www.linkedin.com/in/manoj-boddula]
+]
 - 🐙 **GitHub:** [ManojBoddula](https://github.com/ManojBoddula)
 
 <p align="center">
