@@ -1,25 +1,64 @@
-<h1 align="center">Hi 👋, I'm Manoj Boddula</h1>
-<h3 align="center">AI/ML Developer | B.Tech CSE (AI & ML) | RAG & LLM Specialist</h3>
+# Hi 👋, I'm Manoj Boddula 🤖
+### **AI Engineer | B.Tech CSE (AI & ML) | RAG & LLM Specialist**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojboddula&label=Profile%20views&color=0e75b6&style=flat" alt="manojboddula" /> </p>
+Passionate about bridging the gap between raw data and intelligent automation. I specialize in building **Agentic Workflows**, **RAG Pipelines**, and **Production-Ready AI Applications** using FastAPI and Streamlit.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojboddula" alt="manojboddula" /></a> </p>
+---
 
-- 🔭 I’m currently working on **LangGraph and Agentic AI Workflows**
+### 🛠️ Technical Ecosystem
 
-- 👯 I’m looking to collaborate on **Open-source LLM & RAG Projects**
+| **Category** | **Technologies & Tools** |
+| :--- | :--- |
+| **Artificial Intelligence** | **LangChain**, **RAG**, **Transformer Models (Self-Attention)**, LangGraph, Scikit-learn |
+| **Backend & APIs** | **FastAPI**, Flask, **OpenRouter API**, RESTful Services |
+| **Frontend (AI-UI)** | **Streamlit**, Markdown, CSS |
+| **Data & Vector Ops** | **ChromaDB**, Pandas, NumPy, BeautifulSoup4 (Scraping), SQL |
+| **DevOps & Versioning** | **Git / GitHub**, API Integration, Python-dotenv |
 
-- 💬 Ask me about **Python, RAG Pipelines, and Chromadb**
+---
 
-- 📫 How to reach me **boddulamanoj525@gmail.com**
+### 🚀 Featured Intelligence Projects
 
-<h3 align="left">Connect with me:</h3>
+#### 🛡️ **Defense RAG Pipeline (DRDO-DLRL)**
+* **Context:** Developed during a 1-month internship at Defence Electronics Research Laboratory.
+* **Tech:** LangChain, ChromaDB, BeautifulSoup4.
+* **Impact:** Built a specialized Retrieval-Augmented Generation system for defense research documentation with LangChain Tracing V2 for auditability.
+
+#### 🚗 **BMW Intelligent Concierge**
+* **Context:** AI-powered chatbot for automotive data interpretation.
+* **Tech:** OpenAI API, Streamlit, ChromaDB.
+* **Impact:** Implemented vector-based semantic search to query performance specs and pricing from unstructured datasets.
+
+#### 📈 **Automated Job Scraper & Telegram Agent**
+* **Context:** End-to-end automation for career growth.
+* **Tech:** Python, Telegram Bot API, FastAPI.
+* **Impact:** Daily automated scraping of tech roles with real-time notifications based on custom keyword filtering.
+
+---
+
+### 📊 My GitHub Pulse
+
 <p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ManojBoddula&show_icons=true&theme=radical&hide_border=true" alt="Manoj's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojBoddula&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManojBoddula&theme=radical&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojboddula&show_icons=true&locale=en&layout=compact" alt="manojboddula" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojboddula&show_icons=true&locale=en" alt="manojboddula" /></p>
+### 🎓 Education & Background
+* **B.Tech in Computer Science (AI & ML)** | Vaagdevi Engineering College (2025)
+* **Diploma in Textile Technology** | SRRS Govt Polytechnic College
+* **Interests:** Personal Investing, Financial Data Analysis, and Astronomy 🌌
+
+---
+
+### 📫 Connect with me
+- 📧 **Email:** [boddulamanoj525@gmail.com](mailto:boddulamanoj525@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+- 🐙 **GitHub:** [ManojBoddula](https://github.com/ManojBoddula)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManojBoddula&color=blueviolet" alt="Visitors Count" />
+</p>
