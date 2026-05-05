@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manoj Boddula 🤖
+# Hi , I'm Manoj Boddula 
 ### **AI Engineer | B.Tech CSE (AI & ML) | RAG & LLM Specialist**
 
 Passionate about bridging the gap between raw data and intelligent automation. I specialize in building **Agentic Workflows**, **RAG Pipelines**, and **Production-Ready AI Applications** using FastAPI and Streamlit.
